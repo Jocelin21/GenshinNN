@@ -1,1 +1,1 @@
-# GenshinNetwork
+# Genshin Neural Network
