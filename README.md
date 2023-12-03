@@ -1,1 +1,1 @@
-# Genshin Neural Network
+# Genshin's Review Sentiment Analysis
